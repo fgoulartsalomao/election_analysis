@@ -39,16 +39,16 @@
 # Example: adding new branch  numbers to the list based on a report
 
 #Declares existing list and now list (could also be a value from a dictionary)
-    # report_list=[2815,2365,2810]
-    # branch_list = [2330,2390]
-    # for report in report_list:
-    #     if report_list in branch_list:
-    #         print('Item already exist')
-    #     else:
-    #         branch_list.append(report)
-    # print(branch_list)
+# report_list=[2815,2365,2810]
+# branch_list = [2815,2365,2330,2390]
+# for report in report_list:
+#     if report in branch_list:
+#         print(f'{report} already exists')
+#     else:
+#         branch_list.append(report)
+# print(f'the new branch list is {branch_list}')
 
-#To add items from a dictionary to a ginven list of dictionaries if not yet existing
+# #To add items from a list to another
 # branch_list=[{"Name":"Mississauga","Number":2815},{"Name":"Kitchener","Number":2365},{"Name":"Markham","Number":2810}]
 # report_list =[{"Name":"London","Number":2330},{"Name":"Sudbury","Number":2390}]
 # for report in report_list:
