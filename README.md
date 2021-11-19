@@ -22,28 +22,21 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ## Deliverable 1a: Candidate Results
 ### Deliverable Requirements:
 1. Total Votes in the election are printed to the terminal.
-
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/total_votes_election.png)
-
 2. Each candidate’s total votes and percentage of votes are printed to the terminal.
-
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/each_candidates_vVotes_percentage.png)
-
 3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
- 
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/winner_vote_percentage.png)
 
 ### Results with detail analysis:
 **1. Total Votes in the election**
 
-
+![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/total_votes_election.png)
 
 **2. Each candidate’s total votes and percentage of votes.**
 
-
+![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/each_candidates_vVotes_percentage.png)
 
 **3. The winner of the election, winning vote count, and winning percentage of votes.**
 
+![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/winner_vote_percentage.png)
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
