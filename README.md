@@ -12,6 +12,8 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
+
+## Resources - test
 ## Resources
 * Data Source: election_results.csv
 * Software: Python 3.7.6, Visual Studio Code 1.50.0
