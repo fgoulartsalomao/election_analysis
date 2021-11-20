@@ -28,7 +28,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detail analysis:
 **1. Total Votes in the election**
 
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/total_votes_election.png)
+![name-of-you-image](Resources\total_votes_election.png)
 
 **2. Each candidate’s total votes and percentage of votes.**
 
