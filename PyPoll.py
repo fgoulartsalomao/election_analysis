@@ -190,7 +190,7 @@ with open(file_to_save, "w") as txt_file:
         f"-----------------------------\n"
         f"Total Votes: {total_votes:,}\n"
         f"------------------------------\n\n"
-        f"Summary of contry votes:\n"
+        f"Details per County:\n"
         f"-------------------------------\n")
     #prints total_votes variable created on Terminal
     print(election_results, end="")
