@@ -28,15 +28,15 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detail analysis:
 **1. Total Votes in the election**
 
-![name-of-you-image](Resources\total_votes_election.png)
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/total_votes_election.png)
 
 **2. Each candidate’s total votes and percentage of votes.**
 
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/each_candidates_vVotes_percentage.png)
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/votes_per_candidate.png)
 
 **3. The winner of the election, winning vote count, and winning percentage of votes.**
 
-![name-of-you-image](https://github.com/fgoulartsalomao/Election_Analysis/blob/main/Resources/winner_vote_percentage.png)
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/winner_summary.png)
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
@@ -48,9 +48,11 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 **1. Each county with its total vote count and percentage.**
 
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/county_votes.png)
 
 **3. The county with the largest number of voters is printed to the terminal.**
 
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/county_summary.png)
 
 ## Deliverable 2: Election Candidate Results Saved to a Text File
 ### Candidate Results Deliverable Requirements:
@@ -63,12 +65,13 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 ## Election County Results Saved to a Text File
 
+![name-of-you-image](https://github.com/fgoulartsalomao/election_analysis/blob/main/Resources/election_ontxt.png)
 
 ## Deliverable 3: Analysis of the Election Audit
 
 ### Election-Audit Results:
 
-> - **Total Votes Cast** in this congressional election was **369,711**
+> - **Total Votes Cast** on this Congressional Election was **369,711**
 
 > ***County Votes:***
 
@@ -78,16 +81,14 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 > ***County with Largest Number of Votes:***
 
-> - **Denver** county has the largest number total of **306,055**
-> - In addition, **Denver** county has the total votes percentage of `82.8%`  
+> - **Denver** county holds the largest number total of **306,055** with the total votes percentage of `82.8%`  
 > - **Denver** county is the Largest County Turnout
 
 > ***Candidate Percentage of Votes:***
-> - **Charles Casper Stockham** candidate has `23.0%` total percentage with a total votes of **85,213**
+> - **Charles Casper Stockham** candidate has `23.0%` of the overall percentage with **85,213** total votes
 > - **Diana DeGette** candidate has the `73.8` total percentage with a total votes of **272,892**
 > - **Raymon Anthony Doane** candidate has `3.1%` total percentage with a total votes of **11,606**
 
 > ***Election Results:***
-> - **Diana DeGette** won the election, with a total votes of **272,892**
-> - In addition, **Diana DeGette** has the total percentage votes of `73.8%
-> - **Diana DeGette** is the Winner!
+> - **Diana DeGette** won the election, with a total votes of **272,892**, a percentage of `73.8% overall
+> - **Diana DeGette** is a strong winner with the majority of votes on her favor.
