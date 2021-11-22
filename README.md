@@ -71,7 +71,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 ### Election-Audit Results:
 
-> - **Total Votes Cast** on this Congressional Election was **369,711**
+> - The **Total Votes Cast** on this Congressional Election was **369,711**
 
 > ***County Votes:***
 
@@ -90,5 +90,5 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 > - **Raymon Anthony Doane** candidate has `3.1%` total percentage with a total votes of **11,606**
 
 > ***Election Results:***
-> - **Diana DeGette** won the election, with a total votes of **272,892**, a percentage of `73.8% overall
+> - **Diana DeGette** won the election, with a total votes of **272,892**, a percentage of `73.8%` overall
 > - **Diana DeGette** is a strong winner with the majority of votes on her favor.
